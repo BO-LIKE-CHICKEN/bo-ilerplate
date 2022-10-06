@@ -1218,7 +1218,7 @@
   "resolved" "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   "version" "0.0.29"
 
-"@types/node@18.8.2":
+"@types/node@^18.8.2":
   "integrity" "sha512-cRMwIgdDN43GO4xMWAfJAecYn8wV4JbsOGHNfNUIDiuYkUYAR5ec4Rj7IO2SAhFPEfpPtLtUTbbny/TCT7aDwA=="
   "resolved" "https://registry.npmjs.org/@types/node/-/node-18.8.2.tgz"
   "version" "18.8.2"
