@@ -1,15 +1,14 @@
 {
   "presets": [
+    "next/babel",
     "@emotion/babel-preset-css-prop",
-    [
-      "@babel/preset-env",
-      {
-        "targets": {
-          "node": "current"
-        }
-      }
-    ],
     "@babel/preset-typescript"
+    // [@babel/preset-react]
   ],
-  "plugins": ["@emotion"]
+  "plugins": [
+    "@babel/plugin-proposal-do-expressions",
+    "@babel/proposal-class-properties",
+    "@babel/proposal-object-rest-spread",
+    "@emotion"
+  ]
 }
