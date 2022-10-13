@@ -3,7 +3,6 @@
     "next/babel",
     "@emotion/babel-preset-css-prop",
     "@babel/preset-typescript"
-    // [@babel/preset-react]
   ],
   "plugins": [
     "@babel/plugin-proposal-do-expressions",
